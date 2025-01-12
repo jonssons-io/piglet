@@ -1,0 +1,2 @@
+# Ignore all .gen.ts files
+**/*.gen.ts
